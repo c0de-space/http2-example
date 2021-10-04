@@ -1,5 +1,6 @@
+# apt install make -y
 curl -L https://git.io/n-install | bash
-. ~/.bashrc
+source ~/.bashrc
 n latest
 node -v
 npm -v
