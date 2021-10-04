@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "http2-example",
+  "description": "simple node http/2 web server",
+  "version": "0.1.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0de-space/http2-example.git"
+  },
+  "keywords": [
+    "http2"
+  ],
+  "author": "Abiria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0de-space/http2-example/issues"
+  },
+  "homepage": "https://github.com/c0de-space/http2-example#readme"
+}
