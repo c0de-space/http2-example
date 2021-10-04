@@ -13,4 +13,4 @@ rm n.sh
 sudo npm i -g npm
 echo node --version: $(node -v)
 echo npm --version: $(npm -v)
-npx -y yarn install
+sudo npx -y yarn install
