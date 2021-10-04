@@ -5,7 +5,7 @@ rm /usr/local/bin/node
 rm /usr/local/bin/npm
 rm -r /root/n
 curl -L https://git.io/n-install  > n.sh
-./n.sh -y
+sudo bash ./n.sh -y
 rm n.sh
 . ~/.bashrc
 /root/n/bin/n lts
