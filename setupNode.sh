@@ -10,7 +10,8 @@ sudo bash ./n.sh -y
 rm n.sh
 . ~/.bashrc
 /root/n/bin/n latest
-sudo npm i -g npm
+#sudo npm i -g npm
 echo node --version: $(node -v)
 echo npm --version: $(npm -v)
-sudo npx -y yarn install
+sudo npm i -g yarn
+sudo yarn install
